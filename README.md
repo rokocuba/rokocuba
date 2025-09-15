@@ -1,4 +1,4 @@
-# Bok | Hello | Hallo | こんにちは | 你好, my name is Roko Čubrić 👋
+# Bok | Hello | Hallo | こんにちは | 你好, I'm Roko Čubrić 👋
 
 I'm a Bachelor of Science in Computing student at the University of Zagreb, Faculty of Electrical Engineering and Computing. I have a deep interest in the intersection of **Software Engineering**, **Artificial Intelligence**, and **Statistical and Computational Modeling**. My passion lies in applying rigorous mathematical principles and algorithmic thinking to build scalable, reliable, and intelligent systems.
 
