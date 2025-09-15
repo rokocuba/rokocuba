@@ -22,19 +22,19 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
     </td>
     <td valign="top" width="33%">
       <strong>AI / ML & Data</strong><br>
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="20" height="20" style="vertical-align: middle;"> LangChain/LangGraph<br>
+      <span style="display: inline-block; width: 20px; height: 20px; vertical-align: middle;"></span>LangChain/LangGraph<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20" style="vertical-align: middle;"> PostgreSQL<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="20" height="20" style="vertical-align: middle;"> LaTeX<br>
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="20" height="20" style="vertical-align: middle;"> Information Retrieval<br>
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="20" height="20" style="vertical-align: middle;"> Algorithms & Data Structures<br>
+      <span style="display: inline-block; width: 20px; height: 20px; vertical-align: middle;"></span>Information Retrieval<br>
+      <span style="display: inline-block; width: 20px; height: 20px; vertical-align: middle;"></span>Algorithms & Data Structures<br>
     </td>
     <td valign="top" width="33%">
       <strong>Systems, Infrastructure & Tools</strong><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" style="vertical-align: middle;"> Docker<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20" style="vertical-align: middle;"> Git & CI/CD<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="20" height="20" style="vertical-align: middle;"> Unix/Linux<br>
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="20" height="20" style="vertical-align: middle;"> REST APIs<br>
-      <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="20" height="20" style="vertical-align: middle;"> Microservices<br>
+      <span style="display: inline-block; width: 20px; height: 20px; vertical-align: middle;"></span>REST APIs<br>
+      <span style="display: inline-block; width: 20px; height: 20px; vertical-align: middle;"></span>Microservices<br>
     </td>
   </tr>
 </table>
