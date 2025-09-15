@@ -32,6 +32,14 @@ During my internship at Abysalto, I led key architecture and implementation effo
 ### 2. Portfolio of Technical & Academic Writings
 This is a curated collection of my work in algorithms, applied mathematics, and machine learning, presented as formal technical documents.
 
+**Featured Competition: STEM GAMES 2025 - Math Arena**
+This repository contains the winning solutions for the M Arena at STEM Games 2025. The competition was divided into theoretical and programming tasks rooted in information theory and error-correcting codes.
+
+<a href="https://github.com/rokocuba/Stem-Games-2025" target="blank">
+  <img src="https://img.shields.io/badge/-STEM GAMES 2025 - M Arena-purple?style=for-the-badge&logo=adobe-acrobat-reader">
+</a>
+
+
 **Featured Report: A Mathematical Approach to the ListenLabs Berghain Challenge**
 This document details the full theoretical foundation for my solution, covering the problem's formal definition, the derivation of the core algorithms, and the mathematical justification for the chosen approach.
 
@@ -39,7 +47,7 @@ This document details the full theoretical foundation for my solution, covering 
   <img src="https://img.shields.io/badge/-Read the Berghain Challenge Report (PDF)-red?style=for-the-badge&logo=adobe-acrobat-reader">
 </a>
 
-**Featured Report: Computational Modeling Challenge**
+**Featured Programming Challenge: Computational Modeling Challenge**
 This repository contains the solution for the 2024 Computer Modeling Competition (CMC), implemented in Julia.
 
 <a href="https://github.com/rokocuba/cmc24" target="blank">
