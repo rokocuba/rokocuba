@@ -40,10 +40,12 @@ This document details the full theoretical foundation for my solution, covering 
 </a>
 
 **Featured Report: Computational Modeling Challenge**
-This repository contains the solution for the 2024 Computer Modeling Competition (CMC), implemented in Julia.<br>
+This repository contains the solution for the 2024 Computer Modeling Competition (CMC), implemented in Julia.
+
 <a href="https://github.com/rokocuba/cmc24" target="blank">
   <img src="https://img.shields.io/badge/-Explore All Writings-blue?style=for-the-badge&logo=github">
-</a><br>
+</a>
+<br>
 
 <a href="https://github.com/rokocuba/rokocuba/tree/main/latex" target="blank">
   <img src="https://img.shields.io/badge/-Explore All Writings-grey?style=for-the-badge&logo=github">
