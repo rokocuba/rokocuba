@@ -42,6 +42,8 @@ This document details the full theoretical foundation for my solution, covering 
   <img src="https://img.shields.io/badge/-Explore All Writings-grey?style=for-the-badge&logo=github">
 </a>
 
+**Featured Report: Computational Modeling Challenge**
+This document details the full theoretical foundation for my solution, covering the problem's formal definition, the derivation of the core algorithms, and the mathematical justification for the chosen approach.
 ---
 
 ### Education
