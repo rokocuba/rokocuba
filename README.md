@@ -25,7 +25,7 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
 ### 1. AI Agent Factory (Internship Project Showcase)
 During my internship at Abysalto, I led key architecture and implementation efforts for a scalable RAG and AI Agent platform. My work involved designing a modular system with the Strategy pattern, building robust backend microservices with Python/FastAPI, and implementing advanced information retrieval pipelines.
 
-<a href="https://github.com/rokocuba/AI-Agent-RAG-Platform" target="_blank"  rel="noopener noreferrer">
+<a href="https://github.com/rokocuba/AI-Agent-RAG-Platform" target="blank">
   <img src="https://img.shields.io/badge/-View Project Showcase-blue?style=for-the-badge&logo=github">
 </a>
 
@@ -35,10 +35,10 @@ This is a curated collection of my work in algorithms, applied mathematics, and 
 **Featured Report: A Mathematical Approach to the ListenLabs Berghain Challenge**
 This document details the full theoretical foundation for my solution, covering the problem's formal definition, the derivation of the core algorithms, and the mathematical justification for the chosen approach.
 
-<a href="https://github.com/rokocuba/rokocuba/blob/main/latex/Mathematical_Formulation_of_a_Value_Based_Heuristic_Strategy.pdf" target="_blank"  rel="noopener noreferrer">
+<a href="https://github.com/rokocuba/rokocuba/blob/main/latex/Mathematical_Formulation_of_a_Value_Based_Heuristic_Strategy.pdf" target="blank">
   <img src="https://img.shields.io/badge/-Read the Berghain Challenge Report (PDF)-red?style=for-the-badge&logo=adobe-acrobat-reader">
 </a>
-<a href="https://github.com/rokocuba/Technical-Writings" target="_blank"  rel="noopener noreferrer">
+<a href="https://github.com/rokocuba/rokocuba/latex" target="blank">
   <img src="https://img.shields.io/badge/-Explore All Writings-grey?style=for-the-badge&logo=github">
 </a>
 
