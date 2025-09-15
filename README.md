@@ -35,10 +35,10 @@ This is a curated collection of my work in algorithms, applied mathematics, and 
 **Featured Report: A Mathematical Approach to the ListenLabs Berghain Challenge**
 This document details the full theoretical foundation for my solution, covering the problem's formal definition, the derivation of the core algorithms, and the mathematical justification for the chosen approach.
 
-<a href="https://github.com/[YOUR_USERNAME]/Technical-Writings/blob/main/berghain-challenge/Berghain_Challenge_Mathematical_Approach.pdf" target="blank">
+<a href="https://github.com/rokocuba/Technical-Writings/blob/main/berghain-challenge/Berghain_Challenge_Mathematical_Approach.pdf" target="blank">
   <img src="https://img.shields.io/badge/-Read the Berghain Challenge Report (PDF)-red?style=for-the-badge&logo=adobe-acrobat-reader">
 </a>
-<a href="https://github.com/[YOUR_USERNAME]/Technical-Writings" target="blank">
+<a href="https://github.com/rokocuba/Technical-Writings" target="blank">
   <img src="https://img.shields.io/badge/-Explore All Writings-grey?style=for-the-badge&logo=github">
 </a>
 
