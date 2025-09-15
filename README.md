@@ -25,7 +25,7 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
 ### 1. AI Agent Factory (Internship Project Showcase)
 During my internship at Abysalto, I led key architecture and implementation efforts for a scalable RAG and AI Agent platform. My work involved designing a modular system with the Strategy pattern, building robust backend microservices with Python/FastAPI, and implementing advanced information retrieval pipelines.
 
-<a href="https://github.com/[YOUR_USERNAME]/AI-Agent-RAG-Platform" target="blank">
+<a href="https://github.com/rokocuba/AI-Agent-RAG-Platform" target="blank">
   <img src="https://img.shields.io/badge/-View Project Showcase-blue?style=for-the-badge&logo=github">
 </a>
 
