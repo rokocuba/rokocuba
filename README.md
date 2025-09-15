@@ -38,7 +38,7 @@ This document details the full theoretical foundation for my solution, covering 
 <a href="https://github.com/rokocuba/rokocuba/blob/main/latex/Mathematical_Formulation_of_a_Value_Based_Heuristic_Strategy.pdf" target="blank">
   <img src="https://img.shields.io/badge/-Read the Berghain Challenge Report (PDF)-red?style=for-the-badge&logo=adobe-acrobat-reader">
 </a>
-<a href="https://github.com/rokocuba/rokocuba/latex" target="blank">
+<a href="https://github.com/rokocuba/rokocuba/tree/main/latex" target="blank">
   <img src="https://img.shields.io/badge/-Explore All Writings-grey?style=for-the-badge&logo=github">
 </a>
 
