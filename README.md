@@ -5,38 +5,36 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
 <p align="left">
   <a href="https://linkedin.com/in/roko-cubric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="roko-cubric" height="30" width="40" /></a>
 </p>
+
+---
+
 ### Core Competencies & Skills
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <strong>Languages & Frameworks:</strong><br>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/python/python.png"> Python</code>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/java/java.png"> Java</code>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/cpp/cpp.png"> C/C++</code>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/javascript/javascript.png"> JavaScript</code>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/fastapi/fastapi.png"> FastAPI</code>
+    <td valign="top" width="33%">
+      <strong>Languages & Frameworks</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> C/C++<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="20" height="20"/> FastAPI<br>
     </td>
-    <td valign="top" width="50%">
-      <strong>AI / ML & Data:</strong><br>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/pytorch/pytorch.png"> LangChain/LangGraph</code>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/postgresql/postgresql.png"> PostgreSQL</code>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/latex/latex.png"> LaTeX</code>
-      <code>Information Retrieval</code>
-      <code>Algorithms & Data Structures</code>
+    <td valign="top" width="33%">
+      <strong>AI / ML & Data</strong><br>
+      LangChain/LangGraph<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="20" height="20"/> LaTeX<br>
+      Information Retrieval<br>
+      Algorithms & Data Structures<br>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Systems, Infrastructure & Tools:</strong><br>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/docker/docker.png"> Docker</code>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/git/git.png"> Git & CI/CD</code>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d407ba3c3542e0934184947541315/topics/linux/linux.png"> Unix/Linux</code>
-      <code>REST APIs</code>
-      <code>Microservices</code>
-    </td>
-    <td valign="top" width="50%">
-       <!-- Placeholder for more skills if needed -->
+    <td valign="top" width="33%">
+      <strong>Systems, Infrastructure & Tools</strong><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git & CI/CD<br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/> Unix/Linux<br>
+      REST APIs<br>
+      Microservices<br>
     </td>
   </tr>
 </table>
