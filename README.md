@@ -22,7 +22,7 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
     </td>
     <td valign="top" width="33%">
       <strong>AI / ML & Data</strong><br>
-      <span style="display: inline-block; width: 20px; height: 20px; vertical-align: middle;"></span>LangChain/LangGraph<br>
+      <span style="display: inline-block; width: 20px; height: 20px; vertical-align: middle;"></span>\tLangChain/LangGraph<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20" style="vertical-align: middle;"> PostgreSQL<br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="20" height="20" style="vertical-align: middle;"> LaTeX<br>
       <span style="display: inline-block; width: 20px; height: 20px; vertical-align: middle;"></span>Information Retrieval<br>
