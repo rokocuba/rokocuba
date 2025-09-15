@@ -10,42 +10,13 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
 
 ### Core Competencies & Skills
 
-Here is a breakdown of my technical skills, organized by category.
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Languages & Frameworks</strong>
-      <table>
-        <tr><td width="35"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20"></td><td>Python</td></tr>
-        <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20"></td><td>Java</td></tr>
-        <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20"></td><td>C/C++</td></tr>
-        <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20"></td><td>JavaScript</td></tr>
-        <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="20"></td><td>FastAPI</td></tr>
-      </table>
-    </td>
-    <td width="33%" valign="top">
-      <strong>AI / ML & Data</strong>
-      <table>
-        <tr><td width="35"></td><td>LangChain/LangGraph</td></tr>
-        <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20"></td><td>PostgreSQL</td></tr>
-        <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="20"></td><td>LaTeX</td></tr>
-        <tr><td></td><td>Information Retrieval</td></tr>
-        <tr><td></td><td>Algorithms & Data Structures</td></tr>
-      </table>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Systems, Infrastructure & Tools</strong>
-      <table>
-        <tr><td width="35"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20"></td><td>Docker</td></tr>
-        <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20"></td><td>Git & CI/CD</td></tr>
-        <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="20"></td><td>Unix/Linux</td></tr>
-        <tr><td></td><td>REST APIs</td></tr>
-        <tr><td></td><td>Microservices</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+| Languages & Frameworks | AI / ML & Data | Systems, Infrastructure & Tools |
+| :--- | :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python | <span style="display: inline-block; width: 20px;"></span>LangChain/LangGraph | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git & CI/CD |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> C/C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="20" height="20"/> LaTeX | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/> Unix/Linux |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript | <span style="display: inline-block; width: 20px;"></span>Information Retrieval | <span style="display: inline-block; width: 20px;"></span>REST APIs |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="20" height="20"/> FastAPI | <span style="display: inline-block; width: 20px;"></span>Algorithms & Data Structures | <span style="display: inline-block; width: 20px;"></span>Microservices |
 
 ---
 
