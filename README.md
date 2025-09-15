@@ -35,8 +35,8 @@ This is a curated collection of my work in algorithms, applied mathematics, and 
 **Featured Competition: STEM GAMES 2025 - Math Arena**
 This repository contains the winning solutions for the M Arena at STEM Games 2025. The competition was divided into theoretical and programming tasks rooted in information theory and error-correcting codes.
 
-<a href="https://github.com/rokocuba/Stem-Games-2025" target="blank">
-  <img src="https://img.shields.io/badge/-STEM GAMES 2025 - M Arena-purple?style=for-the-badge&logo=adobe-acrobat-reader">
+<a href="https://github.com/rokocuba/Stem-Games-2025">
+  <img src="https://img.shields.io/badge/-STEM_GAMES_2025_-_M_Arena-purple?style=for-the-badge&logo=adobe-acrobat-reader">
 </a>
 
 
