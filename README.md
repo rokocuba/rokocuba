@@ -43,7 +43,7 @@ This document details the full theoretical foundation for my solution, covering 
 This repository contains the solution for the 2024 Computer Modeling Competition (CMC), implemented in Julia.
 
 <a href="https://github.com/rokocuba/cmc24" target="blank">
-  <img src="https://img.shields.io/badge/-Explore All Writings-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/-Explore the cmc24 repository-blue?style=for-the-badge&logo=github">
 </a>
 <br>
 
