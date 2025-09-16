@@ -22,17 +22,17 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
 
 ### My Work & Projects
 
-### 1. AI Agent Factory (Internship Project Showcase)
+## 1. AI Agent Factory (Internship Project Showcase)
 During my internship at Abysalto, I led key architecture and implementation efforts for a scalable RAG and AI Agent platform. My work involved designing a modular system with the Strategy pattern, building robust backend microservices with Python/FastAPI, and implementing advanced information retrieval pipelines.
 
 <a href="https://github.com/rokocuba/AI-Agent-RAG-Platform" target="blank">
   <img src="https://img.shields.io/badge/-View Project Showcase-blue?style=for-the-badge&logo=github">
 </a>
 
-### 2. Portfolio of Technical & Academic Writings
+## 2. Portfolio of various Competitions, Technical & Academic Writings and Coding Challenges
 This is a curated collection of my work in algorithms, applied mathematics, and machine learning, presented as formal technical documents.
 
-# **Featured Competition: STEM GAMES 2025 - Math Arena**
+### **Featured Competition: STEM GAMES 2025 - Math Arena**
 This repository contains the winning solutions for the M Arena at STEM Games 2025. The competition was divided into theoretical and programming tasks rooted in information theory and error-correcting codes.
 
 <a href="https://github.com/rokocuba/Stem-Games-2025">
@@ -40,14 +40,14 @@ This repository contains the winning solutions for the M Arena at STEM Games 202
 </a>
 
 
-# **Featured Report: A Mathematical Approach to the ListenLabs Berghain Challenge**
+### **Featured Report: A Mathematical Approach to the ListenLabs Berghain Challenge**
 This document details the full theoretical foundation for my solution, covering the problem's formal definition, the derivation of the core algorithms, and the mathematical justification for the chosen approach.
 
 <a href="https://github.com/rokocuba/rokocuba/blob/main/latex/Mathematical_Formulation_of_a_Value_Based_Heuristic_Strategy.pdf" target="blank">
   <img src="https://img.shields.io/badge/-Read the Berghain Challenge Report (PDF)-red?style=for-the-badge&logo=adobe-acrobat-reader">
 </a>
 
-# **Featured Programming Challenge: Computational Modeling Challenge**
+### **Featured Programming Challenge: Computational Modeling Challenge**
 This repository contains the solution for the 2024 Computer Modeling Competition (CMC), implemented in Julia.
 
 <a href="https://github.com/rokocuba/cmc24" target="blank">
