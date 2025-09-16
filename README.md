@@ -30,7 +30,7 @@ During my internship at Abysalto, I led key architecture and implementation effo
 </a>
 
 ## 2. Portfolio of various Competitions, Technical & Academic Writings and Coding Challenges
-This is a curated collection of my work in algorithms, applied mathematics, and machine learning, presented as formal technical documents.
+This is a curated collection of my work in algorithms, applied mathematics, and machine learning (pending), presented as formal technical documents.
 
 ### **Featured Competition: STEM GAMES 2025 - Math Arena**
 This repository contains the winning solutions for the M Arena at STEM Games 2025. The competition was divided into theoretical and programming tasks rooted in information theory and error-correcting codes.
