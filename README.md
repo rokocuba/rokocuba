@@ -22,14 +22,21 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
 
 ### My Work & Projects
 
-## 1. AI Agent Factory (Internship Project Showcase)
+## GaussVAE (showcase of a project under development)
+A Variational Autoencoder capable of learning compressed latent representations of 2D Gaussian Splatting for the sake of image compression
+
+<a href="[https://github.com/rokocuba/AI-Agent-RAG-Platform](https://github.com/rokocuba/GaussVAE-showcase)" target="blank">
+  <img src="https://img.shields.io/badge/-View%20Project%20Showcase-darkred?style=for-the-badge&logo=github">
+</a>
+
+## AI Agent Factory (Internship Project Showcase)
 During my internship at Abysalto, I led key architecture and implementation efforts for a scalable RAG and AI Agent platform. My work involved designing a modular system with the Strategy pattern, building robust backend microservices with Python/FastAPI, and implementing advanced information retrieval pipelines.
 
 <a href="https://github.com/rokocuba/AI-Agent-RAG-Platform" target="blank">
   <img src="https://img.shields.io/badge/-View Project Showcase-blue?style=for-the-badge&logo=github">
 </a>
 
-## 2. Portfolio of various Competitions, Technical & Academic Writings and Coding Challenges
+## Portfolio of various Competitions, Technical & Academic Writings and Coding Challenges
 This is a curated collection of my work in algorithms, applied mathematics, and machine learning (pending), presented as formal technical documents.
 
 ### **Featured Competition: STEM GAMES 2025 - Math Arena**
