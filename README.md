@@ -25,7 +25,7 @@ I'm a Bachelor of Science in Computing student at the University of Zagreb, Facu
 ## GaussVAE (showcase of a project under development)
 A Variational Autoencoder capable of learning compressed latent representations of 2D Gaussian Splatting for the sake of image compression
 
-<a href="[https://github.com/rokocuba/AI-Agent-RAG-Platform](https://github.com/rokocuba/GaussVAE-showcase)" target="blank">
+<a href="https://github.com/rokocuba/GaussVAE-showcase" target="blank">
   <img src="https://img.shields.io/badge/-View%20Project%20Showcase-darkred?style=for-the-badge&logo=github">
 </a>
 
