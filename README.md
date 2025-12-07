@@ -1,71 +1,60 @@
 # Bok | Hello | Hallo | こんにちは | 你好, I'm Roko Čubrić 👋
 
-I'm a Bachelor of Science in Computing student at the University of Zagreb, Faculty of Electrical Engineering and Computing. I have a deep interest in the intersection of **Software Engineering**, **Artificial Intelligence**, and **Statistical and Computational Modeling**. My passion lies in applying rigorous mathematical principles and algorithmic thinking to build scalable, reliable, and intelligent systems.
+Bachelor of Science in Computing student at the University of Zagreb, Faculty of Electrical Engineering and Computing. My studies focus on exploring **Artificial Intelligence**, **Statistical and Computational Modeling** and **Data Analysis**.
 
 <p align="left">
   <a href="https://linkedin.com/in/roko-cubric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="roko-cubric" height="30" width="40" /></a>
 </p>
 
----
-
-### Core Competencies & Skills
-
-| Languages & Frameworks | AI / ML & Data | Systems, Infrastructure & Tools |
-| :--- | :--- | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python | <span style="display: inline-block; width: 20px;"></span>LangChain/LangGraph | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20"/> Docker |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="20" height="20"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git & CI/CD |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="20" height="20"/> C/C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="20" height="20"/> LaTeX | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="20" height="20"/> Unix/Linux |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript | <span style="display: inline-block; width: 20px;"></span>Information Retrieval | <span style="display: inline-block; width: 20px;"></span>REST APIs |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="20" height="20"/> FastAPI | <span style="display: inline-block; width: 20px;"></span>Algorithms & Data Structures | <span style="display: inline-block; width: 20px;"></span>Microservices |
+The following showcases how I use the acquired knowledge:
 
 ---
 
-### My Work & Projects
+# My Work & Projects
 
 ## GaussVAE (showcase of a project under development)
 A Variational Autoencoder capable of learning compressed latent representations of 2D Gaussian Splatting for the sake of image compression
 
 <a href="https://github.com/rokocuba/GaussVAE-showcase" target="blank">
-  <img src="https://img.shields.io/badge/-View%20Project%20Showcase-darkred?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/-github.com/rokocuba/GaussVAE--showcase-darkred?style=for-the-badge&logo=github">
 </a>
 
 ## AI Agent Factory (Internship Project Showcase)
 During my internship at Abysalto, I led key architecture and implementation efforts for a scalable RAG and AI Agent platform. My work involved designing a modular system with the Strategy pattern, building robust backend microservices with Python/FastAPI, and implementing advanced information retrieval pipelines.
 
 <a href="https://github.com/rokocuba/AI-Agent-RAG-Platform" target="blank">
-  <img src="https://img.shields.io/badge/-View Project Showcase-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/-github.com/rokocuba/AI--Agent--RAG--Platform-darkred?style=for-the-badge&logo=github">
 </a>
 
 ## Portfolio of various Competitions, Technical & Academic Writings and Coding Challenges
 This is a curated collection of my work in algorithms, applied mathematics, and machine learning (pending), presented as formal technical documents.
 
-### **Featured Competition: STEM GAMES 2025 - Math Arena**
+## **Featured Competition: STEM GAMES 2025 - Math Arena**
 This repository contains the winning solutions for the M Arena at STEM Games 2025. The competition was divided into theoretical and programming tasks rooted in information theory and error-correcting codes.
 
 <a href="https://github.com/rokocuba/Stem-Games-2025">
-  <img src="https://img.shields.io/badge/-Explore our STEM GAMES 2025 _ M Arena solution-purple?style=for-the-badge&logo=adobe-acrobat-reader">
+  <img src="https://img.shields.io/badge/-github.com/rokocuba/Stem--Games--2025-darkred?style=for-the-badge&logo=github">
 </a>
 
-
-### **Featured Report: A Mathematical Approach to the ListenLabs Berghain Challenge**
-This document details the full theoretical foundation for my solution, covering the problem's formal definition, the derivation of the core algorithms, and the mathematical justification for the chosen approach.
-
-<a href="https://github.com/rokocuba/rokocuba/blob/main/latex/Mathematical_Formulation_of_a_Value_Based_Heuristic_Strategy.pdf" target="blank">
-  <img src="https://img.shields.io/badge/-Read the Berghain Challenge Report (PDF)-red?style=for-the-badge&logo=adobe-acrobat-reader">
-</a>
-
-### **Featured Programming Challenge: Computational Modeling Challenge**
+## **Featured Programming Challenge: Computational Modeling Challenge**
 This repository contains the solution for the 2024 Computer Modeling Competition (CMC), implemented in Julia.
 
 <a href="https://github.com/rokocuba/cmc24" target="blank">
-  <img src="https://img.shields.io/badge/-Explore the cmc24 repository-blue?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/-github.com/rokocuba/cmc24-darkred?style=for-the-badge&logo=github">
 </a>
 <br>
 
-<a href="https://github.com/rokocuba/rokocuba/tree/main/latex" target="blank">
-  <img src="https://img.shields.io/badge/-Explore All Writings-grey?style=for-the-badge&logo=github">
+## **Featured Report: A Mathematical Approach to the ListenLabs Berghain Challenge**
+This document details the full theoretical foundation for my solution, covering the problem's formal definition, the derivation of the core algorithms, and the mathematical justification for the chosen approach.
+
+<a href="https://github.com/rokocuba/rokocuba/blob/main/latex/Mathematical_Formulation_of_a_Value_Based_Heuristic_Strategy.pdf" target="blank">
+  <img src="https://img.shields.io/badge/-Mathematical_Formulation_of_a_Value_Based_Heuristic_Strategy-darkblue?style=for-the-badge&logo=github">
 </a>
 
+## **Other notable reports, scripts, writings**
+<a href="https://github.com/rokocuba/rokocuba/tree/main/latex" target="blank">
+  <img src="https://img.shields.io/badge/-Scripts_and_Writings-darkblue?style=for-the-badge&logo=github">
+</a>
 
 ---
 
