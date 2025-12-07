@@ -26,9 +26,6 @@ During my internship at Abysalto, I led key architecture and implementation effo
   <img src="https://img.shields.io/badge/-github.com/rokocuba/AI--Agent--RAG--Platform-darkred?style=for-the-badge&logo=github">
 </a>
 
-## Portfolio of various Competitions, Technical & Academic Writings and Coding Challenges
-This is a curated collection of my work in algorithms, applied mathematics, and machine learning (pending), presented as formal technical documents.
-
 ## **Featured Competition: STEM GAMES 2025 - Math Arena**
 This repository contains the winning solutions for the M Arena at STEM Games 2025. The competition was divided into theoretical and programming tasks rooted in information theory and error-correcting codes.
 
@@ -51,7 +48,8 @@ This document details the full theoretical foundation for my solution, covering 
   <img src="https://img.shields.io/badge/-Mathematical_Formulation_of_a_Value_Based_Heuristic_Strategy-darkblue?style=for-the-badge&logo=github">
 </a>
 
-## **Other notable reports, scripts, writings**
+## Portfolio of various Competitions, Technical & Academic Writings and Coding Challenges
+This is a curated collection of my work in algorithms, applied mathematics, and machine learning (pending), presented as formal technical documents.
 <a href="https://github.com/rokocuba/rokocuba/tree/main/latex" target="blank">
   <img src="https://img.shields.io/badge/-Scripts_and_Writings-darkblue?style=for-the-badge&logo=github">
 </a>
