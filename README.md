@@ -33,8 +33,8 @@ This repository contains the winning solutions for the M Arena at STEM Games 202
   <img src="https://img.shields.io/badge/-github.com/rokocuba/Stem--Games--2025-darkred?style=for-the-badge&logo=github">
 </a>
 
-## **Featured Programming Challenge: Computational Modeling Challenge**
-This repository contains the solution for the 2024 Computer Modeling Competition (CMC), implemented in Julia.
+## **Featured Programming Challenge: Computational Modeling Challenge 2024**
+This repository contains the solution for the 2024 Computer Modeling Competition (CMC 24), implemented in Julia.
 
 <a href="https://github.com/rokocuba/cmc24" target="blank">
   <img src="https://img.shields.io/badge/-github.com/rokocuba/cmc24-darkred?style=for-the-badge&logo=github">
