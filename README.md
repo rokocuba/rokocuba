@@ -50,6 +50,7 @@ This document details the full theoretical foundation for my solution, covering 
 
 ## Portfolio of various Competitions, Technical & Academic Writings and Coding Challenges
 This is a curated collection of my work in algorithms, applied mathematics, and machine learning (pending), presented as formal technical documents.
+
 <a href="https://github.com/rokocuba/rokocuba/tree/main/latex" target="blank">
   <img src="https://img.shields.io/badge/-Scripts_and_Writings-darkblue?style=for-the-badge&logo=github">
 </a>
