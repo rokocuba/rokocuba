@@ -20,7 +20,7 @@ A Variational Autoencoder capable of learning compressed latent representations 
 </a>
 
 ## AI Agent Factory (Internship Project Showcase)
-During my internship at Abysalto, I led key architecture and implementation efforts for a scalable RAG and AI Agent platform. My work involved designing a modular system with the Strategy pattern, building robust backend microservices with Python/FastAPI, and implementing advanced information retrieval pipelines.
+During my internship at Abysalto, I led key architecture and implementation efforts for a scalable RAG and AI Agent platform. My work involved designing a modular system with the Strategy pattern and implementing advanced information retrieval pipelines.
 
 <a href="https://github.com/rokocuba/AI-Agent-RAG-Platform" target="blank">
   <img src="https://img.shields.io/badge/-github.com/rokocuba/AI--Agent--RAG--Platform-006C4D?style=for-the-badge&logo=github">
