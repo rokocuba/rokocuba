@@ -1,6 +1,6 @@
 # Bok | Hello | Hallo | こんにちは | 你好, I'm Roko Čubrić 👋
 
-Bachelor of Science in Computing student at the University of Zagreb, Faculty of Electrical Engineering and Computing. My studies focus on exploring **Artificial Intelligence**, **Statistical and Computational Modeling** and **Data Analysis**.
+Bachelor of Science in Computing student at the University of Zagreb, Faculty of Electrical Engineering and Computing.<br>My studies focus on exploring **Artificial Intelligence**, **Statistical and Computational Modeling** and **Data Analysis**.
 
 <p align="left">
   <a href="https://linkedin.com/in/roko-cubric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="roko-cubric" height="30" width="40" /></a>
