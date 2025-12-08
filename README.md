@@ -26,6 +26,13 @@ During my internship at Abysalto, I led key architecture and implementation effo
   <img src="https://img.shields.io/badge/-github.com/rokocuba/AI--Agent--RAG--Platform-006C4D?style=for-the-badge&logo=github">
 </a>
 
+## **Programming Challenge: Computational Modeling Challenge 2025 - Winner**
+Winning solution for the CMC25 challenge, achieving the optimal score through manual design assisted by algorithmic fine-tuning.<br>_(Sponsored by AVL-AST)_
+
+<a href="https://github.com/rokocuba/Stem-Games-2025">
+  <img src="https://img.shields.io/badge/-github.com/rokocuba/cmc25-007565?style=for-the-badge&logo=github">
+</a>
+
 ## **Featured Competition: STEM GAMES 2025 - Math Arena**
 This repository contains the winning solutions for the M Arena at STEM Games 2025. The competition was divided into theoretical and programming tasks rooted in information theory and error-correcting codes.
 
@@ -33,7 +40,7 @@ This repository contains the winning solutions for the M Arena at STEM Games 202
   <img src="https://img.shields.io/badge/-github.com/rokocuba/Stem--Games--2025-007F7E?style=for-the-badge&logo=github">
 </a>
 
-## **Featured Programming Challenge: Computational Modeling Challenge 2024**
+## **Programming Challenge: Computational Modeling Challenge 2024**
 This repository contains the solution for the 2024 Computer Modeling Competition (CMC 24), implemented in Julia.
 
 <a href="https://github.com/rokocuba/cmc24" target="blank">
