@@ -29,7 +29,7 @@ During my internship at Abysalto, I led key architecture and implementation effo
 ## **Programming Challenge: Computational Modeling Challenge 2025 - Winner**
 Winning solution for the CMC25 challenge, achieving the optimal score through manual design assisted by algorithmic fine-tuning.<br>_(Sponsored by AVL-AST)_
 
-<a href="https://github.com/rokocuba/Stem-Games-2025">
+<a href="https://github.com/rokocuba/cmc25">
   <img src="https://img.shields.io/badge/-github.com/rokocuba/cmc25-007565?style=for-the-badge&logo=github">
 </a>
 
