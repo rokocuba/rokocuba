@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 961" width="880" height="961" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-label="Timeline of Roko Cubric's education, research, competitions and industry work from 2023 to 2026">
+<defs><linearGradient id="rail" gradientUnits="userSpaceOnUse" x1="0" y1="11" x2="0" y2="919"><stop offset="0" stop-color="#D1D9E0" stop-opacity="0.15"/><stop offset="0.07" stop-color="#D1D9E0" stop-opacity="1"/><stop offset="0.93" stop-color="#D1D9E0" stop-opacity="1"/><stop offset="1" stop-color="#D1D9E0" stop-opacity="0.15"/></linearGradient></defs>
+<line x1="166" y1="2" x2="166" y2="11" stroke="#3B6FD4" stroke-width="2.5" stroke-dasharray="1 6" stroke-linecap="round" opacity="0.55"/>
+<rect x="164.75" y="11" width="2.5" height="908" rx="1.25" fill="url(#rail)"/>
+<circle cx="166" cy="25" r="10.5" fill="none" stroke="#3B6FD4" stroke-width="1.5" opacity="0.28"/>
+<circle cx="166" cy="25" r="6" fill="#3B6FD4"/>
+<text x="138" y="30" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">09.2026</text>
+<text x="194" y="30" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">ETH Zürich</text>
+<text x="194" y="51" font-size="13" fill="#59636E">MSc Computer Science. Machine Intelligence major, Theoretical CS minor.</text>
+<text x="862" y="30" text-anchor="end" font-size="9.5" font-weight="700" fill="#3B6FD4" letter-spacing="1.3" opacity="0.9">EDUCATION</text>
+<circle cx="166" cy="113" r="5.5" fill="#7C5CD1"/>
+<text x="138" y="118" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">Summer 2026</text>
+<text x="194" y="118" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">CERN</text>
+<text x="194" y="139" font-size="13" fill="#59636E">Summer Student, Geneva.</text>
+<text x="862" y="118" text-anchor="end" font-size="9.5" font-weight="700" fill="#7C5CD1" letter-spacing="1.3" opacity="0.9">RESEARCH</text>
+<circle cx="166" cy="201" r="10.5" fill="none" stroke="#3B6FD4" stroke-width="1.5" opacity="0.28"/>
+<circle cx="166" cy="201" r="6" fill="#3B6FD4"/>
+<text x="138" y="206" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">06.2026</text>
+<text x="194" y="206" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">BSc in Computing, FER</text>
+<text x="194" y="227" font-size="13" fill="#59636E">Josip Lončar Award for academic achievement. Top 1.5% of the class.</text>
+<text x="862" y="206" text-anchor="end" font-size="9.5" font-weight="700" fill="#3B6FD4" letter-spacing="1.3" opacity="0.9">EDUCATION</text>
+<circle cx="166" cy="289" r="5.5" fill="#7C5CD1"/>
+<text x="138" y="294" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">03–06.2026</text>
+<text x="194" y="294" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">Shapley-Guided VAE</text>
+<text x="194" y="315" font-size="13" fill="#59636E">BSc thesis. Shapley values weight the auxiliary losses during training.</text>
+<text x="862" y="294" text-anchor="end" font-size="9.5" font-weight="700" fill="#7C5CD1" letter-spacing="1.3" opacity="0.9">THESIS</text>
+<circle cx="166" cy="377" r="5.5" fill="#BE8A1E"/>
+<text x="138" y="382" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">05.2026</text>
+<text x="194" y="382" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">STEM Games 2026, M Arena</text>
+<text x="194" y="403" font-size="13" fill="#59636E">Detecting AI-written Reddit comments from the text alone. Stacked ensemble.</text>
+<text x="862" y="382" text-anchor="end" font-size="9.5" font-weight="700" fill="#BE8A1E" letter-spacing="1.3" opacity="0.9">COMPETITION</text>
+<circle cx="166" cy="465" r="5.5" fill="#BE8A1E"/>
+<text x="138" y="470" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">12.2025</text>
+<text x="194" y="470" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">Computational Modeling Challenge 2025</text>
+<text x="194" y="491" font-size="13" fill="#59636E">1st place. Covering stains with cut patches at minimum cutting and travel cost.</text>
+<text x="862" y="470" text-anchor="end" font-size="9.5" font-weight="700" fill="#BE8A1E" letter-spacing="1.3" opacity="0.9">COMPETITION</text>
+<circle cx="166" cy="553" r="5.5" fill="#7C5CD1"/>
+<text x="138" y="558" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">10.2025–02.2026</text>
+<text x="194" y="558" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">GaussVAE</text>
+<text x="194" y="579" font-size="13" fill="#59636E">Compressing 2D Gaussian splatting parameters instead of pixels.</text>
+<text x="862" y="558" text-anchor="end" font-size="9.5" font-weight="700" fill="#7C5CD1" letter-spacing="1.3" opacity="0.9">RESEARCH</text>
+<circle cx="166" cy="641" r="5.5" fill="#1F8A6E"/>
+<text x="138" y="646" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">Summer 2025</text>
+<text x="194" y="646" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">Abysalto</text>
+<text x="194" y="667" font-size="13" fill="#59636E">AI Academy internship. RAG and agent platform, architecture and backend.</text>
+<text x="862" y="646" text-anchor="end" font-size="9.5" font-weight="700" fill="#1F8A6E" letter-spacing="1.3" opacity="0.9">INDUSTRY</text>
+<circle cx="166" cy="729" r="5.5" fill="#BE8A1E"/>
+<text x="138" y="734" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">05.2025</text>
+<text x="194" y="734" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">STEM Games 2025, M Arena</text>
+<text x="194" y="755" font-size="13" fill="#59636E">1st place. Hybrid Golay [24,12,8] and Hamming [7,4,3] error-correcting code.</text>
+<text x="862" y="734" text-anchor="end" font-size="9.5" font-weight="700" fill="#BE8A1E" letter-spacing="1.3" opacity="0.9">COMPETITION</text>
+<circle cx="166" cy="817" r="5.5" fill="#BE8A1E"/>
+<text x="138" y="822" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">11.2024</text>
+<text x="194" y="822" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">Computational Modeling Challenge 2024</text>
+<text x="194" y="843" font-size="13" fill="#59636E">Evolutionary mirror placement for maximum light coverage, in Julia.</text>
+<text x="862" y="822" text-anchor="end" font-size="9.5" font-weight="700" fill="#BE8A1E" letter-spacing="1.3" opacity="0.9">COMPETITION</text>
+<circle cx="166" cy="905" r="5.5" fill="#3B6FD4"/>
+<text x="138" y="910" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">09.2023</text>
+<text x="194" y="910" font-size="15.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">University of Zagreb, FER</text>
+<text x="194" y="931" font-size="13" fill="#59636E">Start of the BSc in Computing.</text>
+<text x="862" y="910" text-anchor="end" font-size="9.5" font-weight="700" fill="#3B6FD4" letter-spacing="1.3" opacity="0.9">EDUCATION</text>
+</svg>
