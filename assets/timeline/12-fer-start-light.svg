@@ -2,7 +2,7 @@
 <defs><linearGradient id="r" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="88"><stop offset="0" stop-color="#D1D9E0" stop-opacity="0.55"/><stop offset="0.14" stop-color="#D1D9E0" stop-opacity="1"/><stop offset="0.86" stop-color="#D1D9E0" stop-opacity="1"/><stop offset="1" stop-color="#D1D9E0" stop-opacity="0"/></linearGradient></defs>
 <rect x="164.75" y="0" width="2.5" height="28.0" fill="url(#r)"/>
 <circle cx="166" cy="28.0" r="5.5" fill="#3B6FD4"/>
-<text x="138" y="33.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">09.2023</text>
+<text x="34" y="33.0" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">09.2023</text>
 <text x="194" y="33.0" font-size="14.5" font-weight="650" fill="#1F2328" letter-spacing="-0.1">University of Zagreb, FER</text>
 <text x="194" y="50.0" font-size="13" fill="#59636E">Started the BSc in Computing, with FER's entrance award for placing</text>
 <text x="194" y="67.0" font-size="13" fill="#59636E">in the top 6% of candidates on the faculty ranking.</text>

@@ -2,7 +2,8 @@
 <defs><linearGradient id="r" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="104"><stop offset="0" stop-color="#30363D" stop-opacity="0.55"/><stop offset="0.14" stop-color="#30363D" stop-opacity="1"/><stop offset="0.86" stop-color="#30363D" stop-opacity="1"/><stop offset="1" stop-color="#30363D" stop-opacity="0.55"/></linearGradient></defs>
 <rect x="164.75" y="0" width="2.5" height="104" fill="url(#r)"/>
 <circle cx="166" cy="36.0" r="6.0" fill="#3FB950"/>
-<text x="138" y="41.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#7D8590" letter-spacing="0.2">Summer 2025</text>
+<text x="34" y="41.0" font-size="12.5" font-weight="600" fill="#7D8590" letter-spacing="0.2">Summer 2025</text>
+<text x="34" y="60.0" font-size="12.5" font-weight="600" fill="#7D8590" letter-spacing="0.2">&amp;</text><text x="34" y="79.0" font-size="12.5" font-weight="600" fill="#7D8590" letter-spacing="0.2">11.2025–06.2026</text>
 <text x="194" y="41.0" font-size="15.5" font-weight="650" fill="#E6EDF3" letter-spacing="-0.1">Abysalto</text>
 <text x="194" y="58.0" font-size="13" fill="#9198A1">AI Academy internship. Retrieval and agent infrastructure for a</text>
 <text x="194" y="75.0" font-size="13" fill="#9198A1">document-processing platform.</text>

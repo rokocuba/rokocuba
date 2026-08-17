@@ -3,7 +3,7 @@
 <rect x="164.75" y="0" width="2.5" height="124" fill="url(#r)"/>
 <circle cx="166" cy="46.0" r="11.5" fill="none" stroke="#58A6FF" stroke-width="1.5" opacity="0.3"/>
 <circle cx="166" cy="46.0" r="7.0" fill="#58A6FF"/>
-<text x="138" y="51.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#7D8590" letter-spacing="0.2">06.2026</text>
+<text x="34" y="51.0" font-size="12.5" font-weight="600" fill="#7D8590" letter-spacing="0.2">06.2026</text>
 <text x="194" y="51.0" font-size="17.0" font-weight="650" fill="#E6EDF3" letter-spacing="-0.1">BSc in Computing, FER</text>
 <text x="194" y="68.0" font-size="13" fill="#9198A1">University of Zagreb, Faculty of Electrical Engineering and Computing.</text>
 <text x="194" y="85.0" font-size="13" fill="#9198A1">Graduated with high honours.</text>

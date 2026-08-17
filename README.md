@@ -46,9 +46,9 @@ Summer Student at CERN in Geneva.
 
 <sub>03–06.2026 · Bachelor thesis · <a href="https://github.com/roko-cubric/shapley-guided-vae">roko-cubric/shapley-guided-vae</a></sub>
 
-A model trained on several objectives needs a rule for how much each objective counts. That rule is normally a set of constants found by grid search and then held fixed for the rest of the run, which assumes the split that is right early in training is still right late in it. I estimated it during training instead. The auxiliary tasks are treated as players in a cooperative game, and their Shapley values distribute a fixed budget across the loss terms. The estimates stay cheap because uncertain coalitions get sampled more often and old measurements are discounted as the network moves underneath them.
+A model trained on several objectives needs a rule for how much each objective counts. That rule is normally a set of constants found by grid search and then held fixed for the rest of the run, which assumes the split that is right early in training is still right late in it. I estimated it during training instead: the auxiliary tasks are players in a cooperative game, and their Shapley values distribute a fixed budget across the loss terms. Uncertain coalitions get sampled more often, and old measurements are discounted as the network moves underneath them. That is what keeps the estimate cheap.
 
-All three variants beat static uniform weighting, for under 10% added training time. The effect is real and small. The honest result sits underneath it: a model with no auxiliary tasks at all still reconstructs best, which is the capacity trade-off multi-task learning is known for. The experiments show the mechanism can be built and estimated stably during training, not that it pays.
+All three variants beat static uniform weighting, for under 10% added training time. The improvement is consistent and statistically significant, and small enough that it does not matter much in practice. The honest result sits underneath it: a model with no auxiliary tasks at all still reconstructs best, which is the capacity trade-off multi-task learning is known for. The experiments do not show that this use of Shapley values pays. They show the mechanism can be built and estimated stably during training.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,9 +59,9 @@ All three variants beat static uniform weighting, for under 10% added training t
 
 <sub>05.2026 · team ReinFERcement learning · <a href="https://github.com/roko-cubric/STEM-Games-M-2026">roko-cubric/STEM-Games-M-2026</a></sub>
 
-Bot detection normally works at the account level, on post counts, follower ratios and account age. This system uses none of those. The only input is one Reddit comment and the way it is written, and the output is a probability that this particular comment is AI-generated rather than a claim about who owns the account. Three subsystems read the same comment along a semantic, a structural and a lexical axis, and a stacking meta-model learns how to combine what they report.
+Bot detection normally works at the account level, on post counts, follower ratios and account age. This system uses none of those. The only input is one Reddit comment and the way it is written, so the output is a probability about that comment rather than a claim about who owns the account. Three subsystems read the same text on different axes (semantic, structural, lexical), and a stacking meta-model learns how to combine what they report.
 
-The combined model reaches **98.4% accuracy** on the held-out test set, and beats every individual subsystem by more on calibration than on accuracy. The corpus is the real limitation: most of the AI examples come from a narrow family of generators, so that number describes this distribution rather than the open web. The Chrome extension we delivered also serves only one of the three subsystems.
+The combined model reaches 98.4% accuracy on the held-out test set, and beats every individual subsystem by more on calibration than on accuracy. The corpus is the real limitation: most of the AI examples come from a narrow family of generators, so that number describes this distribution and not the open web. The Chrome extension we delivered serves only one of the three subsystems.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -73,12 +73,11 @@ The combined model reaches **98.4% accuracy** on the held-out test set, and beat
 
 <sub>11.2025 · 1st place, EUR 1,000 · sponsored by AVL-AST · <a href="https://github.com/roko-cubric/cmc25">roko-cubric/cmc25</a></sub>
 
-Stains on a stage have to be covered by patches cut from a single square sheet, at a cost combining the cutting perimeter and the distance travelled between the cutting area and each final position. I designed a small set of reusable patch shapes by hand, picked a configuration that already scored well, then fine-tuned the position and rotation of each patch with a Monte Carlo local search that samples candidates, keeps the best valid ones and tightens around them.
+Stains on a stage have to be covered by patches cut from a single square sheet, at a cost combining the cutting perimeter and the distance travelled between the cutting area and each final position. I designed a small set of reusable patch shapes by hand and picked a configuration that already scored well. A Monte Carlo local search then fine-tuned the position and rotation of each patch, sampling candidates, keeping the best valid ones and tightening around them.
 
 Most of the gain came from the manual geometry. The search only polished the parameters.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
 
 <br>
 
@@ -86,9 +85,9 @@ Most of the gain came from the manual geometry. The search only polished the par
 
 <sub>10.2025–02.2026 · <a href="https://github.com/roko-cubric/GaussVAE-showcase">roko-cubric/GaussVAE-showcase</a></sub>
 
-Image compression through the Gaussian parameters rather than the pixels. Image-GS represents an image as a set of 2D Gaussian splats, and the idea was to compress those parameters instead of the pixel grid. Morton Z-order sorting linearises the splats first, so the 1D convolutions have local spatial structure to find.
+Image compression through the Gaussian parameters rather than the pixels. Image-GS represents an image as a set of 2D Gaussian splats, and the idea was simple: compress those parameters instead of the pixel grid. Morton Z-order sorting linearises the splats first, so the 1D convolutions have local spatial structure to find.
 
-Position and scale converge. Rotation and colour do not, and scaling the decoder up did not fix it. My hypothesis was that the decoder is the bottleneck, but the deeper flaw is running an autoencoder over an input that is fundamentally a set: mapping a latent vector back to a set of parameters with complex interdependencies stays hard even with Morton ordering. I paused the project in January 2026 and moved the underlying question to my thesis.
+Position and scale converge. Rotation and colour do not, and scaling the decoder up did not fix it. My hypothesis was that the decoder is the bottleneck, but the deeper flaw is running an autoencoder over an input that is fundamentally a set: mapping a latent vector back to a set of parameters with complex interdependencies stays hard even with Morton ordering. Work on the project was paused in January 2026, and the underlying question moved to my thesis.
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -100,7 +99,7 @@ Position and scale converge. Rotation and colour do not, and scaling the decoder
 
 <sub>Summer 2025 · <a href="https://github.com/roko-cubric/AI-Agent-RAG-Platform">roko-cubric/AI-Agent-RAG-Platform</a></sub>
 
-AI Academy internship on a platform for building and deploying document-processing agents. I worked on architecture and implementation. I pushed for the Strategy pattern so that retrieval methods, chunking methods and evaluation could be swapped without touching the services around them, and built several of the retrieval methods, among them multi-query expansion, hybrid semantic and keyword search, and a graph walk over related chunks. Documents carry separate embeddings for their content, their summary and the questions they could answer, so a query can match on more than surface text. I wrote the FastAPI services and the PostgreSQL and pgvector layer, including table generation that adapts to the dimension of whichever embedding model is selected.
+AI Academy internship on a platform for building and deploying document-processing agents. I worked on architecture and implementation. I pushed for the Strategy pattern, so that retrieval methods, chunking methods and evaluation could be swapped without touching the services around them. I built several of the retrieval methods: multi-query expansion, hybrid semantic and keyword search, and a graph walk over related chunks. Documents carry three separate embeddings (content, summary, and the questions they could answer), so a query can match on more than surface text. I also wrote the FastAPI services and the PostgreSQL and pgvector layer, including table generation that adapts to the dimension of whichever embedding model is selected.
 
 The source is proprietary to Abysalto. The repository documents the architecture and my part in it rather than shipping the code.
 
@@ -116,7 +115,7 @@ The source is proprietary to Abysalto. The repository documents the architecture
 
 <sub>05.2025 · 1st place · <a href="https://github.com/roko-cubric/Stem-Games-2025">roko-cubric/Stem-Games-2025</a></sub>
 
-Theory and programming on information theory and error-correcting codes. The main task was protecting a 100-bit message on a channel that flips up to 10 bits at random. We split the message into blocks and covered each with the strongest code that fits it, then precomputed the full syndrome table, so correcting a block is a dictionary lookup rather than a search.
+The main task was protecting a 100-bit message on a channel that flips up to 10 bits at random. We split the message into blocks and covered each with the strongest code that fits it, then precomputed the full syndrome table, so correcting a block is a dictionary lookup rather than a search.
 
 A second task capped the protection at exactly 20 extra bits. We laid the message out as a grid and took parities along two different directions, so a single error trips one check in each and the intersection locates it.
 
@@ -129,7 +128,7 @@ A second task capped the protection at exactly 20 extra bits. We laid the messag
 
 <sub>11.2024 · <a href="https://github.com/roko-cubric/cmc24">roko-cubric/cmc24</a></sub>
 
-One ray of light enters a dark 2D room and eight mirrors have to be placed to illuminate as much of it as possible. I wrote a tree-based evolutionary algorithm that grows the mirror set one at a time, scores candidates on covered area and a positional heuristic, keeps the best two and branches each into two more. A rearrangement pass over adjacent pairs afterwards tunes the angles.
+One ray of light enters a dark 2D room and eight mirrors have to be placed to illuminate as much of it as possible. I wrote a tree-based evolutionary algorithm that grows the mirror set one mirror at a time. It scores candidates on covered area and a positional heuristic, keeps the best two and branches each into two more. A rearrangement pass over adjacent pairs afterwards tunes the angles.
 
 The emphasis was on getting a working algorithm inside the competition deadline, not on code that survives maintenance.
 

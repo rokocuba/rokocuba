@@ -4,7 +4,7 @@
 <rect x="164.75" y="46.0" width="2.5" height="78.0" fill="url(#r)"/>
 <circle cx="166" cy="46.0" r="11.5" fill="none" stroke="#3B6FD4" stroke-width="1.5" opacity="0.3"/>
 <circle cx="166" cy="46.0" r="7.0" fill="#3B6FD4"/>
-<text x="138" y="51.0" text-anchor="end" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">09.2026</text>
+<text x="34" y="51.0" font-size="12.5" font-weight="600" fill="#6E7781" letter-spacing="0.2">09.2026</text>
 <text x="194" y="51.0" font-size="17.0" font-weight="650" fill="#1F2328" letter-spacing="-0.1">ETH Zürich</text>
 <text x="194" y="68.0" font-size="13" fill="#59636E">MSc Computer Science, starting September 2026.</text>
 <text x="194" y="85.0" font-size="13" fill="#59636E">Machine Intelligence major, Theoretical Computer Science minor.</text>
